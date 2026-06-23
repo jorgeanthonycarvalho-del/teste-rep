@@ -4,6 +4,8 @@
 
 # 03 git push : Adiciona tudo
 
-# 04 git config user.email "jorgeanthonycarvalho@gmail.com" : Config de ref
+# 04 git pull : Tras tudo
 
-# 05 git rm * : Remove arquivos, depois dar um push
+# 05 git config user.email "jorgeanthonycarvalho@gmail.com" : Config de ref
+
+# 06 git rm * : Remove arquivos, depois dar um push
