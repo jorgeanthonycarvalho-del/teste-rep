@@ -9,3 +9,7 @@
 # 05 git config user.email "jorgeanthonycarvalho@gmail.com" : Config de ref
 
 # 06 git rm * : Remove arquivos, depois dar um push
+
+# 07 git log --oneline --all : Verifica todas alterações
+
+# 08 git push origin nova-fecture : Nova brading
