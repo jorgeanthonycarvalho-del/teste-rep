@@ -12,4 +12,12 @@
 
 # 07 git log --oneline --all : Verifica todas alterações
 
-# 08 git push origin nova-fecture : Nova brading
+# 08 git push origin nova-feature : Nova branding
+
+# 09 git diff main origin/main : Diferença local e nuvem 
+
+# 10 git fetch : Altera mais não salva
+
+# 11 git branch nova-feature : Cria nova função
+
+# 12 git switch nova-feature : Muda
